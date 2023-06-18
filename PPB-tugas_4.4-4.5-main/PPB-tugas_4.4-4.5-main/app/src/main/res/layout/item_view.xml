@@ -1,0 +1,12 @@
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/button_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:paddingStart="16dp"
+    android:paddingTop="12dp"
+    android:paddingEnd="16dp"
+    android:paddingBottom="12dp"
+    android:text="Click Me"
+    android:textColor="@android:color/white"
+    android:background="@color/teal_700" />
